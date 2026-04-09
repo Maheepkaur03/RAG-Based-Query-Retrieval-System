@@ -40,7 +40,7 @@ It should contain the following columns:
    ```
 3. Type your query when the `NewsBot is ready` message appears! Type `exit` or `quit` to stop.
 
-## ⚠️ Notes regarding `News_Task.py`
+## ⚠️ Notes regarding `Main.py`
 The code contains Jupyter notebook syntaxes (like `!pip install...` and `!ollama serve...`). If you are running this natively as a Python script (`.py`), you should comment out those lines.
 
 ## 💬 Example Interaction
